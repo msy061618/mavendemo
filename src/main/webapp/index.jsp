@@ -1,5 +1,6 @@
 <html>
+<title> Tamizhan </title>
 <body>
-<h2>Welcome to Tamizha !</h2>
+<h2>Welcome to MsY !</h2>
 </body>
 </html>
